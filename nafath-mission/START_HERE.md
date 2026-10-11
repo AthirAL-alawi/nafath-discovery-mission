@@ -56,5 +56,4 @@ We use your **last** submission received before the deadline.
 
 - Completing the mission does not guarantee selection.
 - Every candidate is checked with the same rules.
-- If you face a technical or access problem, contact **[support email]**
-  **before** the deadline and explain what happened and what you tried.
+
