@@ -18,7 +18,7 @@ instructions, and use GitHub, the tool used daily by technical teams.
 ## Time
 
 - Expected effort: **3 to 4 hours**. You do not need to do it in one sitting.
-- Deadline: **[Tuesday, DD Month YYYY] at 11:59 PM, Oman time (GMT+4)**.
+- Deadline: **Thursday, 15 October 2026 at 11:59 PM, Oman time (GMT+4)**.
 - Submissions after the deadline are not accepted.
 
 ## Language
