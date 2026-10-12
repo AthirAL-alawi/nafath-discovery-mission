@@ -5,23 +5,20 @@
 | Item | Details |
 |---|---|
 | Program | Nafath Training Program |
-| Organized by | [Organization names] |
-| Duration | [X months, start date to end date] |
-| Location | [City / venue, or remote / hybrid] |
-| Schedule | [Days and hours, e.g. Sunday to Thursday, 8:00 AM to 3:00 PM] |
-| Attendance | [Attendance requirement, e.g. full-time attendance required] |
-| Seats | [Number of seats per track, if announced] |
+| Organized by | Codeline |
+| Schedule | Sunday to Thursday, 8:00 AM to 5:00 PM |
+| Attendance | full-time attendance required |
 
 ## Tracks
 
 | Track | What you will learn |
 |---|---|
-| Software | [Short description] |
-| AI | [Short description] |
-| Mobile | [Short description] |
-| Networking | [Short description] |
-| Cybersecurity | [Short description] |
-| Data | [Short description] |
+| Software |
+| AI |
+| Mobile |
+| Networking |
+| Cybersecurity |
+| Data |
 
 ## Selection stages
 
