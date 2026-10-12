@@ -5,14 +5,14 @@
 | Item | Details |
 |---|---|
 | Program | Nafath Training Program |
-| Organized by | Codeline |
+| Organized by | TRA |
 | Schedule | Sunday to Thursday, 8:00 AM to 5:00 PM |
 | Attendance | full-time attendance required |
 
 ## Tracks
 
-| Track | What you will learn |
-|---|---|
+| Track |
+|---|
 | Software |
 | AI |
 | Mobile |
